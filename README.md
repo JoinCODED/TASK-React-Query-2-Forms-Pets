@@ -3,7 +3,7 @@
 In this task, you are going to crate a form to add a new pet to the pets website. You are going to use `@tanstack/react-query` and `react-bootstrap`.
 
 ## Instructions
-- Fork and clone [this repository](https://github.com/JoinCODED/TASK-REACT-SP-Pets-Forms) to your `Development` folder.
+- Fork and clone [this repository](https://github.com/JoinCODED/TASK-React-Query-2-Forms-Pets) to your `Development` folder.
 
 
 
